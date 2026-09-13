@@ -2,3 +2,6 @@
 - Github Indepth
 - Linkedin
 - VS Code
+
+### Today's Learnings:
+> - Hi
