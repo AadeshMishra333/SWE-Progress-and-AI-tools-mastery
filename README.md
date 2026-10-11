@@ -14,4 +14,4 @@ Jai Shree Krishna 🙏
 
 
 ## 11/10/2026: Issue - loop
-- GPT has guided me to make the first project, details in local computer and final repo building in progress
+- GPT has guided me to make the first project, details in local computer and [final repo](https://github.com/AadeshMishra333/issue-agent) building in progress
